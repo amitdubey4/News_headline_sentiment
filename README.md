@@ -28,7 +28,7 @@ To build a machine learning model that can accurately predict the **sentiment of
 ## 🔍 Workflow Summary
 
 ### 1. **Data Exploration**
-- Loaded and analyzed the dataset.
+- Loaded and analyzed the dataset from **kaggle**.
 - Checked for null values, class distribution, and headline lengths.
 
 ### 2. **Text Preprocessing**
